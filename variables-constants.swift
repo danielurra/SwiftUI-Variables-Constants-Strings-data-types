@@ -3,7 +3,7 @@ var age = 33
 age = 34
 age = 35
 age = 36
-//Camel-Case Camel-hump notation (lower 1rst word then uppercase)
+//Camel-Case Camel-hump notation (lower case 1rst word then uppercase)
 var ageOfEusebio = 33
 //Constant (its value doesn't change)
 let kilosToLibs = 2.2
