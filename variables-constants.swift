@@ -12,5 +12,5 @@ var firstname = "Eusebio"
 var lastname = "Taba"
 //Data Types - Integer (Whole number)
 var ageV2: Int = 33
-//Data Types - Double (decimal point)
+//Data Types - Double (number with a decimal point)
 let kilosToLibsV2: Double = 2.2
