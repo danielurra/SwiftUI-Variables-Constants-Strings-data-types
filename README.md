@@ -6,7 +6,7 @@ Let's use XCode Playground<br>
 * XCode > File > New > Playground
 ![Screenshot 2024-03-05 at 6 08 51 AM](https://github.com/danielurra/swift-ui-variables-constants-strings-data-types/assets/51704179/412385c6-6854-4401-946b-d1d40977e7cf)<br>
 
-##Naming conventions
+## Naming conventions
  * Always start with `Capital Letter` both **Classes & Structs**
  * Remember Variables start lower case and then Camel case
  * Properties inside of a class are just Variables
