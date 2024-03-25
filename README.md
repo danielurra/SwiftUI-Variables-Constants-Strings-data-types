@@ -1,4 +1,4 @@
-# swift-ui-variables-constants-strings-data-types
+# SwiftUI variables, constants, strings, data-types
 SwiftUI Variables, Constants, Strings, Data Types
 ![Screenshot 2024-03-05 at 6 02 36 AM](https://github.com/danielurra/swift-ui-variables-constants-strings-data-types/assets/51704179/aa22dcb5-a17b-4a5d-a152-5c33ecdca5b0)<br>
 ## XCode Swift Playground
