@@ -5,6 +5,10 @@ Let's use XCode Playground<br>
 * XCode > File > New > Playground
 ![Screenshot 2024-03-05 at 6 08 51 AM](https://github.com/danielurra/swift-ui-variables-constants-strings-data-types/assets/51704179/412385c6-6854-4401-946b-d1d40977e7cf)<br>
 # SwiftUI variables, constants, strings and data-types
+```swift
+var welcomeGreeting: String = "Welcome to SwiftUI!"
+```
+![C4D479C8-C71D-426C-9586-0529558A9689](https://github.com/user-attachments/assets/575a2f8f-2b57-4b91-a6d8-36431cc80d7e)<br>
 SwiftUI Variables, Constants, Strings and Data Types
 ![Screenshot 2024-03-05 at 6 02 36 AM](https://github.com/danielurra/swift-ui-variables-constants-strings-data-types/assets/51704179/aa22dcb5-a17b-4a5d-a152-5c33ecdca5b0)<br>
 ## data types
