@@ -1,3 +1,5 @@
+# var & let
+![E10193CA-3DA0-47C3-9EC6-E3237E407E54_4_5005_c](https://github.com/user-attachments/assets/4a90d651-a0db-4cc2-8f08-328da9939376)<br>
 # SwiftUI variables, constants, strings and data-types
 SwiftUI Variables, Constants, Strings and Data Types
 ![Screenshot 2024-03-05 at 6 02 36 AM](https://github.com/danielurra/swift-ui-variables-constants-strings-data-types/assets/51704179/aa22dcb5-a17b-4a5d-a152-5c33ecdca5b0)<br>
