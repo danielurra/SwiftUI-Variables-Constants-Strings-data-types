@@ -7,6 +7,8 @@ Let's use XCode Playground<br>
 # SwiftUI variables, constants, strings and data-types
 SwiftUI Variables, Constants, Strings and Data Types
 ![Screenshot 2024-03-05 at 6 02 36 AM](https://github.com/danielurra/swift-ui-variables-constants-strings-data-types/assets/51704179/aa22dcb5-a17b-4a5d-a152-5c33ecdca5b0)<br>
+## data types
+![950F487C-782D-4B8C-9EAA-EE05ED76A320_4_5005_c](https://github.com/user-attachments/assets/672124f8-b46c-4d1e-98d8-a3e04869e6f4)<br>
 ## Naming conventions
  * Always start with `Capital Letter` both **Classes & Structs**
  * Remember Variables start lower case and then Camel case
